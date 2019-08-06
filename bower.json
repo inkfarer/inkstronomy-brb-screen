@@ -1,5 +1,5 @@
 {
-  "name": "inkstronomy-overlays",
+  "name": "inkstronomy-brb-screen",
   "description": "",
   "main": "index.js",
   "authors": [
@@ -17,7 +17,6 @@
     "paper-button": "^2.1.0",
     "paper-input": "^2.2.2",
     "gsap": "^1.20.4",
-    "sc-fitted-text": "SupportClass/sc-fitted-text#^1.1.2",
-    "nodecg-toggle": "NodeCGElements/nodecg-toggle#^1.0.0",
+    "sc-fitted-text": "SupportClass/sc-fitted-text#^1.1.2"
   }
 }
