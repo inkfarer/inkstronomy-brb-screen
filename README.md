@@ -23,6 +23,7 @@ It should look something like this, just replace the placeholders with your own 
 	}
 }
 ```
+5. Install the [Lemon/Milk](https://www.dafont.com/lemon-milk.font) font.
 
 ## Usage
 
