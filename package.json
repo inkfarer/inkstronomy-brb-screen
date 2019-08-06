@@ -1,0 +1,52 @@
+{
+  "name": "inkstronomy-brb-screen",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "randomoink"
+  },
+  "files": [
+    "dashboard",
+    "graphics",
+    "extension.js",
+    "extension"
+  ],
+  "keywords": [
+    "",
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": ">=0.9",
+    "dashboardPanels": [
+      {
+        "name": "music",
+        "title": "Music",
+        "width": 3,
+        "file": "music.html",
+        "headerColor": "#262F40",
+        "workspace": "inkstronomy2"
+      },
+      {
+        "name": "breakScreen",
+        "title": "Break Screen Controls",
+        "width": 3,
+        "file": "breakScreen.html",
+        "headerColor": "#262F40",
+        "workspace": "inkstronomy2"
+      }
+    ],
+    "graphics": [
+      {
+        "file": "brb.html",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "dependencies": {
+    "lastfm": "^0.9.2"
+  },
+  "repository": "https://github.com/nodecg/nodecg.git",
+  "license": "MIT"
+}
